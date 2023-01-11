@@ -1,4 +1,4 @@
-#Hangman
+# Hangman
 A Single player game to guess Movie name letter by letter before the number of tries gets over
 
 ## Installation
